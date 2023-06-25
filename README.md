@@ -1,6 +1,6 @@
 # Proyek-UAS-Grafkom
 Proyek UAS Grafkom
-# THE FOREST
+# The Forest
 
 # Kelompok 20
 + Kevin Wijaya / c14210124
